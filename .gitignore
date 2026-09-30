@@ -1,0 +1,15 @@
+/MCU/Debug/**
+/MCU/MCU.csv
+/MCU/MCU.pdf
+/MCU/MCU.txt
+/Scripts/*_res.csv
+/Scripts/*.xlsx
+/Scripts/*.log
+/Scripts/__pycache__/**
+/GUI/.vs/**
+/GUI/M8020/bin/**
+/GUI/M8020/obj/**
+/GUI/packages/**
+/GUI/Release/**
+/obj/**
+/MCU/bootable/**
